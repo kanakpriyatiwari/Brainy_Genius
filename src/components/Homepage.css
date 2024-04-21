@@ -1,0 +1,104 @@
+body{
+    overflow-x: hidden;
+}
+
+#bannerpic1{
+    width: 750px;
+
+}
+
+#slogan-line{
+    margin-top: 250px;
+    margin-left: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+}
+
+.btn-primary1{
+    background-color: rgb(0, 0, 123);
+    color: orangered;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+/*  */
+.exam-target{
+    background-color:rgb(3, 3, 66);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #FC6736;
+    text-align: center;
+    width: 800px;
+    margin-left: 292px;
+    border-radius: 22px;
+    
+}
+.btn-primary1{
+    text-align: center;
+    text-transform: uppercase;
+    width: 256px;
+    height: 45.5px;
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: rgb(3, 3, 66);
+    color: wheat;
+}
+.btn-primary1:hover{
+    background-color: #ff6430;
+    color: white;
+}
+
+
+
+#demo-pic{
+    border-radius: 42px;
+    margin-top: 130px;
+    margin-left:40px;
+    width: 700px;
+    height: 500px;
+    
+}
+
+#demo{
+    margin-top: 100px;
+    width: 490px;
+    
+    margin-left: 470px;
+}
+
+
+#demo-heading{
+color: rgb(45, 45, 255);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+}
+label{
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+#schd-demo{
+    margin-top: 22px;
+    margin-left: 150px;
+}
+#feedback-students{
+    margin-left: 10px;
+    margin-top: 120px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    width: 754px;
+}
+
+.card{
+    width: 250px;
+    margin-left: 120px;
+    margin-top: 70px;
+    border: 1px solid orangered;
+    border-radius:32px;
+}
+#banner2home{
+    margin-top: 50px;
+    width: 1280px;
+    align-items: center;
+    margin-left: 90px;
+   
+}

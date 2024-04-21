@@ -1,0 +1,32 @@
+/* Navbar.css */
+.navbar {
+    background-color:#fffce3;/* Set navbar background color */
+  }
+  
+  .nav-link {
+    color: navy; /* Set nav link color */
+    /* padding: 22px; */
+    margin-right: 20px;
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+  }
+  
+  .nav-link:hover {
+    color: orangered; /* Set nav link color on hover */
+    text-decoration: underline;
+    text-decoration-skip-ink: 12px;
+  }
+  
+  .btn-info1 {
+    background-color: navy; /* Set button background color */
+    color: beige;
+    /* border-color: navy; Set button border color */
+  }
+  
+  .btn-info1:hover {
+    background-color: orange; /* Set button background color on hover */
+    border-color: orange; /* Set button border color on hover */
+    color: #ffffff; /* Set button text color on hover */
+  }
+  

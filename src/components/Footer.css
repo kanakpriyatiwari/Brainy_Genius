@@ -1,0 +1,46 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgb(255, 246, 235);
+    height: 290px;
+  }
+  
+  .left-section ul {
+    list-style-type: none;
+    padding: 0;
+    color: blue;
+    margin-right: 22px;
+  }
+  
+  .right-section .customer-support {
+    text-align: right;
+    margin-right: 22px;
+    /* color: blue; */
+  }
+
+  #customer-support{
+    color: rgb(0, 0, 147);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .contact-info p {
+    margin: 5px 0;
+    color: rgb(91, 91, 255);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#subscribe-box{
+    margin-right: 620px;
+    margin-top: -196px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+  #input-box{
+    width: 500px;
+  }
+#btn-subscribe{
+    margin-right: 500px;
+    margin-top: -72px ;
+    justify-content: space-between;
+}
